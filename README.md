@@ -18,3 +18,12 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 ![image](https://user-images.githubusercontent.com/36518896/171877481-963bc937-cb87-4a31-8795-1e981bc87303.png)
 # Total Successful vs Unsuccessful Attacks
 ![image](https://user-images.githubusercontent.com/36518896/171877598-7302f826-25dc-4d65-8409-46a84c076131.png)
+
+# conclusion
+
+Iraq ranked first on global terrorist activity followed by Pakistan, Afghanistan then India and so on.
+
+Most Targeted Areas are Private Citizens&Property, Military,Police and so on.
+Global Terror attack rise sharply from 2011 and Maximum Attacks are in 2014 and Maximum people where died in 2014.
+Taliban and ISIL are the most active terrorist Groups.
+![image](https://user-images.githubusercontent.com/36518896/171877806-1db18b16-ed2c-47e0-ab02-2ce178e1e291.png)
